@@ -5,7 +5,7 @@ Aspiring Full Stack Web Developer
 - Working on real-world projects to improve my skills
 - Goal : Become a professional developer & work abroad
 
-# Email :webdevparveen@gmail.com
+### Email :webdevparveen@gmail.com
 
 ## Skill (Learning Phase)
 - HTML5
