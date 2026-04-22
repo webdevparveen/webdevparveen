@@ -4,8 +4,8 @@ Currently Learning MERN Stack
 (MongoDB, Express, React, Node.js)
 Working on real-world projects to improve my skills
 Goal : Become a professional developer & work abroad
-Contact me :
-webdevparveen@gmail.com
+
+Contact me : webdevparveen@gmail.com
 
 Skill (Learning Phase)
 HTML5
