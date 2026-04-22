@@ -7,24 +7,20 @@ Goal : Become a professional developer & work abroad
 
 Contact me : webdevparveen@gmail.com
 
-Skill (Learning Phase)
-
+Skill (Learning Phase) :
 HTML5
 CSS3
 JavaScript
 Git & GitHub
 
-Current Focus
-
+Current Focus:
 Building projects
 Learning React & backend development
 Improving problem-solving skills
 
-Fun Fact
-
+Fun Fact:
 I'm consistent and focused on becoming a skilled developer.
 
 <!--
 **webdevparveen/webdevparveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
