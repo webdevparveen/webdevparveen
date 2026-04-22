@@ -8,10 +8,10 @@ Goal : Become a professional developer & work abroad
 Contact me : webdevparveen@gmail.com
 
 Skill (Learning Phase) :
-HTML5
-CSS3
-JavaScript
-Git & GitHub
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
 Current Focus:
 Building projects
